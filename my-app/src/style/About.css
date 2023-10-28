@@ -1,0 +1,32 @@
+.team img {
+    width: 20%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.team {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 10px;
+    align-items: center;
+    width: 100%;
+}
+
+.teamText {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.teamText h3, .teamText h2 {
+    margin: 2px;
+}
+
+.patternLine {
+    height: 50px;
+    width: 100%;
+    background-image: url('../assets/PatternWhiteTwenty-02.png');
+    background-repeat: repeat-x;
+    background-size: 2%;
+}
