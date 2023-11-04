@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/MoraDesigns/static/css/main.99ce578d.css",
-    "main.js": "/MoraDesigns/static/js/main.01f9e1b4.js",
-    "static/media/TerraNovaMockup.png": "/MoraDesigns/static/media/TerraNovaMockup.33dd95473af5dcdb932b.png",
-    "static/media/terraNovaWeb.png": "/MoraDesigns/static/media/terraNovaWeb.18079153e089c8df2e49.png",
-    "static/media/furrealMockup.png": "/MoraDesigns/static/media/furrealMockup.4b812fa5749d834e2dcb.png",
-    "static/media/furrealGroomersProject.png": "/MoraDesigns/static/media/furrealGroomersProject.e7a906a4b639bca7f0c4.png",
-    "static/media/photo2.JPG": "/MoraDesigns/static/media/photo2.125d1a5915a271a60e2b.JPG",
-    "static/media/furrealBrand-03.png": "/MoraDesigns/static/media/furrealBrand-03.6c5fd9e41a232065412b.png",
-    "static/media/photo4.JPG": "/MoraDesigns/static/media/photo4.f81d6e14b98117cf4e88.JPG",
-    "static/media/furrealMobile.png": "/MoraDesigns/static/media/furrealMobile.76dbe45b5e7d489e94e5.png",
-    "static/media/photo1.JPG": "/MoraDesigns/static/media/photo1.6a91c434f3abeaf82be8.JPG",
-    "static/media/terraNovaBrand-06.png": "/MoraDesigns/static/media/terraNovaBrand-06.839f88cccced24f83c0d.png",
-    "static/media/instagramWhite.png": "/MoraDesigns/static/media/instagramWhite.57e0b95c30cd7e84495e.png",
-    "static/media/twitterWhite.png": "/MoraDesigns/static/media/twitterWhite.4c9fda9ccff697ac8ced.png",
-    "static/media/facebookWhite.png": "/MoraDesigns/static/media/facebookWhite.1fc242f7f17aa6189ea9.png",
-    "static/media/whiteLongLogo.svg": "/MoraDesigns/static/media/whiteLongLogo.a977927450f562b8a38814bf81d99e25.svg",
-    "static/media/patternComplex2.svg": "/MoraDesigns/static/media/patternComplex2.b63f78cfc4a1b86b0e36.svg",
-    "index.html": "/MoraDesigns/index.html",
-    "main.99ce578d.css.map": "/MoraDesigns/static/css/main.99ce578d.css.map",
-    "main.01f9e1b4.js.map": "/MoraDesigns/static/js/main.01f9e1b4.js.map"
+    "main.css": "/static/css/main.348ca3f0.css",
+    "main.js": "/static/js/main.3f2daa8c.js",
+    "static/media/TerraNovaMockup.png": "/static/media/TerraNovaMockup.33dd95473af5dcdb932b.png",
+    "static/media/terraNovaWeb.png": "/static/media/terraNovaWeb.18079153e089c8df2e49.png",
+    "static/media/furrealMockup.png": "/static/media/furrealMockup.4b812fa5749d834e2dcb.png",
+    "static/media/furrealGroomersProject.png": "/static/media/furrealGroomersProject.e7a906a4b639bca7f0c4.png",
+    "static/media/photo2.JPG": "/static/media/photo2.125d1a5915a271a60e2b.JPG",
+    "static/media/furrealBrand-03.png": "/static/media/furrealBrand-03.6c5fd9e41a232065412b.png",
+    "static/media/photo4.JPG": "/static/media/photo4.f81d6e14b98117cf4e88.JPG",
+    "static/media/furrealMobile.png": "/static/media/furrealMobile.76dbe45b5e7d489e94e5.png",
+    "static/media/photo1.JPG": "/static/media/photo1.6a91c434f3abeaf82be8.JPG",
+    "static/media/terraNovaBrand-06.png": "/static/media/terraNovaBrand-06.839f88cccced24f83c0d.png",
+    "static/media/instagramWhite.png": "/static/media/instagramWhite.57e0b95c30cd7e84495e.png",
+    "static/media/twitterWhite.png": "/static/media/twitterWhite.4c9fda9ccff697ac8ced.png",
+    "static/media/facebookWhite.png": "/static/media/facebookWhite.1fc242f7f17aa6189ea9.png",
+    "static/media/whiteLongLogo.svg": "/static/media/whiteLongLogo.a977927450f562b8a38814bf81d99e25.svg",
+    "static/media/patternComplex2.svg": "/static/media/patternComplex2.b63f78cfc4a1b86b0e36.svg",
+    "index.html": "/index.html",
+    "main.348ca3f0.css.map": "/static/css/main.348ca3f0.css.map",
+    "main.3f2daa8c.js.map": "/static/js/main.3f2daa8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.99ce578d.css",
-    "static/js/main.01f9e1b4.js"
+    "static/css/main.348ca3f0.css",
+    "static/js/main.3f2daa8c.js"
   ]
 }
