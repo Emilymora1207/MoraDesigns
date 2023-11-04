@@ -16,7 +16,7 @@ const packages = [
     },
     {
         title: 'Landing Page',
-        price: '$3000',
+        price: '$500',
         includes: ['Landing page design', 'color pallete',]
     },
     {
