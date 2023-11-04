@@ -1,0 +1,9 @@
+.contactCollum {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+button {
+    margin: 30px 0;
+}
