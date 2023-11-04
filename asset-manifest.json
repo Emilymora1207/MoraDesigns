@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.348ca3f0.css",
-    "main.js": "/static/js/main.3f2daa8c.js",
+    "main.js": "/static/js/main.a9590bf5.js",
     "static/media/TerraNovaMockup.png": "/static/media/TerraNovaMockup.33dd95473af5dcdb932b.png",
     "static/media/terraNovaWeb.png": "/static/media/terraNovaWeb.18079153e089c8df2e49.png",
     "static/media/furrealMockup.png": "/static/media/furrealMockup.4b812fa5749d834e2dcb.png",
@@ -19,10 +19,10 @@
     "static/media/patternComplex2.svg": "/static/media/patternComplex2.b63f78cfc4a1b86b0e36.svg",
     "index.html": "/index.html",
     "main.348ca3f0.css.map": "/static/css/main.348ca3f0.css.map",
-    "main.3f2daa8c.js.map": "/static/js/main.3f2daa8c.js.map"
+    "main.a9590bf5.js.map": "/static/js/main.a9590bf5.js.map"
   },
   "entrypoints": [
     "static/css/main.348ca3f0.css",
-    "static/js/main.3f2daa8c.js"
+    "static/js/main.a9590bf5.js"
   ]
 }
